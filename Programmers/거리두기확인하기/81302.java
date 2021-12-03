@@ -1,3 +1,5 @@
+package Programmers.거리두기확인하기;
+
 class Solution {
     public int[] solution(String[][] places) {
         int[] answer = {0, 0, 0, 0, 0};

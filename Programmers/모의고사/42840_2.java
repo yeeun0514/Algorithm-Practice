@@ -1,4 +1,4 @@
-// #모의고사_2
+package Programmers.모의고사;
 
 import java.util.*;
 import java.lang.Math;

@@ -1,4 +1,4 @@
-import java.util.*;
+package Programmers.타겟넘버;
 
 class Solution {
     int answer = 0;

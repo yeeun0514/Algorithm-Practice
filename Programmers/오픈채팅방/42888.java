@@ -1,3 +1,5 @@
+package Programmers.오픈채팅방;
+
 import java.util.*;
 
 class Solution {

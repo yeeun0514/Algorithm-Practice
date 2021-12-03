@@ -1,4 +1,4 @@
-// #모의고사
+package Programmers.모의고사;
 
 import java.util.ArrayList;
 import java.util.List;

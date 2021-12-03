@@ -1,4 +1,4 @@
-// #k번째수_1
+package Programmers.K번째수;
 
 import java.util.Arrays;
 
@@ -6,7 +6,7 @@ class Solution {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = {};
         int[] ans= new int[commands.length];
-        int i, j, k, z;
+        int i, j, k;
         
         for(int a=0;a<commands.length;a++) {
         	
