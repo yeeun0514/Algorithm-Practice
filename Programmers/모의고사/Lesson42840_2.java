@@ -1,9 +1,9 @@
-package Programmers.모의고사;
+package 모의고사;
 
 import java.util.*;
 import java.lang.Math;
 
-class Solution {
+class Solution2 {
     public List<Integer> solution(int[] answers) {
         List<Integer> answer = new ArrayList<Integer>();
         

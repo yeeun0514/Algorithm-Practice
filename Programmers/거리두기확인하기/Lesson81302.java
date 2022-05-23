@@ -1,4 +1,4 @@
-package Programmers.거리두기확인하기;
+package 거리두기확인하기;
 
 class Solution {
     public int[] solution(String[][] places) {

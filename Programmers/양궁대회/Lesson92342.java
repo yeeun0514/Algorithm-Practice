@@ -1,4 +1,4 @@
-package test92342;
+package 양궁대회;
 
 import java.util.Arrays;
 

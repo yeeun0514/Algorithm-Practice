@@ -1,4 +1,4 @@
-package Programmers.나머지가1이되는수찾기;
+package 나머지가1이되는수찾기;
 
 class Solution {
     public int solution(int n) {

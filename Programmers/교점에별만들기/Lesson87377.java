@@ -1,7 +1,8 @@
+package 교점에별만들기;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class 87377 {
+public class Lesson87377 {
 
 	public static void main(String[] args) {
 		int[][] question = {{2, -1, 4}, {-2, -1, 4}, {0, -1, 1}, {5, -8, -12}, {5, 8, 12}};

@@ -1,3 +1,5 @@
+package 소수찾기;
+
 import java.lang.Math;
 import java.util.*;
 

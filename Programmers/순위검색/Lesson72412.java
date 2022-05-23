@@ -1,3 +1,5 @@
+package 순위검색;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;

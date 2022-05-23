@@ -1,3 +1,5 @@
+package 로또의최고순위와최저순위;
+
 class Solution {
     public int[] solution(int[] lottos, int[] win_nums) {
         int[] answer = new int[2];

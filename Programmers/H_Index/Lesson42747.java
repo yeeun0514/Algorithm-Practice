@@ -1,4 +1,4 @@
-package Programmers.H_Index;
+package H_Index;
 
 import java.util.Arrays;
 

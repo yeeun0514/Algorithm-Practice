@@ -1,8 +1,8 @@
-package Programmers.기능개발;
+package 기능개발;
 
 import java.util.*;
 
-class Solution {
+class Solution_2 {
     public int[] solution(int[] progresses, int[] speeds) {
         Queue<Integer> queue = new LinkedList<>();
         List<Integer> result = new ArrayList<Integer>();

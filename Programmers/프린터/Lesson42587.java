@@ -1,3 +1,5 @@
+package 프린터;
+
 import java.util.*;
 
 class Solution {

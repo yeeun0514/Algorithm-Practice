@@ -1,4 +1,4 @@
-package Programmers.타겟넘버;
+package 타겟넘버;
 
 class Solution {
     int answer = 0;

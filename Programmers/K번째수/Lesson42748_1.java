@@ -1,4 +1,4 @@
-package Programmers.K번째수;
+package K번째수;
 
 import java.util.Arrays;
 

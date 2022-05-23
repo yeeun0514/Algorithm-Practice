@@ -1,3 +1,5 @@
+package 점프와순간이동;
+
 class Solution {
     public int solution(int n) {
         int ans = 0;

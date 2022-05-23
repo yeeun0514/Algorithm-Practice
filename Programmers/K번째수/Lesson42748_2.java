@@ -1,8 +1,8 @@
-package Programmers.K번째수;
+package K번째수;
 
 import java.util.Arrays;
 
-class Solution {
+class Solution2 {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
         

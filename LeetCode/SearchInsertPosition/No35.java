@@ -1,3 +1,5 @@
+package SearchInsertPosition;
+
 class Solution {
     public int searchInsert(int[] nums, int target) {
         int size = nums.length;
