@@ -2,7 +2,10 @@ package 모의고사;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+ * 첫 번째 방법
+ * 답안 규칙대로 각각 계산하는 방법
+ */
 class Solution {
     public int[] solution(int[] answers) {
         int[] answer = {};

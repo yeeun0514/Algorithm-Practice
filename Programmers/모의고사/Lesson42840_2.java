@@ -2,7 +2,10 @@ package 모의고사;
 
 import java.util.*;
 import java.lang.Math;
-
+/*
+ * 두 번째 방법
+ * 반복되는 답을 통째로 배열에 넣고 계산하는 방법
+ */
 class Solution2 {
     public List<Integer> solution(int[] answers) {
         List<Integer> answer = new ArrayList<Integer>();
