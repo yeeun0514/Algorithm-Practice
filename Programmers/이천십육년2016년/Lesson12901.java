@@ -12,7 +12,6 @@ class Solution {
   public String solution(int a, int b) {
      String answer = "";
 		
-	int m=a;
 	int d=0;
 	int dw=0;
 	

@@ -1,6 +1,5 @@
 package 카카오프렌즈컬러링북;
 
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
